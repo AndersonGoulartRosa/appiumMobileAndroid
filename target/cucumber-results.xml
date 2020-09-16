@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.101103">
+<testcase classname="Valido Formulário" name="Valido capmo 1" time="0.101103">
+<system-out><![CDATA[Given inicio o formulario...................................................passed
+When faco o paranue.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
